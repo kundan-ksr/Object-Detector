@@ -1,6 +1,6 @@
 # Object Detection App using Flutter  
 
-![Object Detection App](https://via.placeholder.com/800x400.png?text=Object+Detection+App+Banner)
+<!-- ![Object Detection App](https://via.placeholder.com/800x400.png?text=Object+Detection+App+Banner) -->
 
 ## 🚀 Overview  
 The Object Detection App is a Flutter-based application that integrates **Machine Learning** to perform real-time object recognition. It uses **TensorFlow Lite** models for lightweight and efficient performance on mobile devices. This project showcases the seamless integration of ML models into a cross-platform mobile app.
