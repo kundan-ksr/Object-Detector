@@ -23,6 +23,12 @@ The Object Detection App is a Flutter-based application that integrates **Machin
 
 ## 📸 Screenshots  
 
+### Home Screen  
+![Home Screen](https://github.com/kundan-ksr/Object-Detector/raw/master/assets/App%20images/mainscreen.jpg)  
+
+### Object Detection in Action  
+![Object Detection](https://github.com/kundan-ksr/Object-Detector/raw/master/assets/App%20images/rec1.jpg)  
+![Object Detection](https://github.com/kundan-ksr/Object-Detector/raw/master/assets/App%20images/rec2.jpg)  
 
 ## 📚 Setup and Installation  
 
