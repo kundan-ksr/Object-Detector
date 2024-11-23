@@ -79,5 +79,5 @@ Flutter for making cross-platform development seamless.
 <ul>
    <li>GitHub: https://github.com/kundan-ksr</li>
    <li>Email: shivaayssr@gmail.com</li>
-   <li>LinkedIn: linkedin.com/in/kundan08/</li>
+   <li>LinkedIn: https://www.linkedin.com/in/kundan08/</li>
 </ul>
