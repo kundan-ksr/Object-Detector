@@ -38,43 +38,46 @@ The Object Detection App is a Flutter-based application that integrates **Machin
    ```bash
    git clone https://github.com/kundan-ksr/Object-Detector.git
    cd Object-Detector
-Install Dependencies
-Ensure you have Flutter installed. Run the following commands:
+2. **Install Dependencies**
+   Ensure you have Flutter installed.Run the following commands:
+   ```bash
+   flutter pub get
+   Set Up TensorFlow Lite Model
 
-bash
-Copy code
-flutter pub get
-Set Up TensorFlow Lite Model
+3. **Set Up TensorFlow Lite Model**
+<ul>
+   <li>Download the required TensorFlow Lite model files (.tflite) and place them in the assets folder.
+   <li>Update the pubspec.yaml file to include the model in your app assets.
+</ul>
 
-Download the required TensorFlow Lite model files (.tflite) and place them in the assets folder.
-Update the pubspec.yaml file to include the model in your app assets.
-Run the App
+4. **Run the App**
 Launch the app on an emulator or physical device:
+   ```bash
+   flutter run
 
-bash
-Copy code
-flutter run
+## 📁 Project Structure
+<ul>
+  <li> /lib: Contains the main Dart files for UI and logic.
+  <li> /assets: Holds the TensorFlow Lite model files and other assets.
+  <li> /android & /ios: Platform-specific configurations.
+</ul>
 
-📁 Project Structure
-/lib: Contains the main Dart files for UI and logic.
-/assets: Holds the TensorFlow Lite model files and other assets.
-/android & /ios: Platform-specific configurations.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you have suggestions or want to enhance features, feel free to open an issue or submit a pull request.
 
-🔐 License
+## 🔐 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 TensorFlow Lite for enabling mobile-friendly ML.
 Flutter for making cross-platform development seamless.
 
 
-📧 Contact
-<br>
-Developed by Kundan Kumar
-
-GitHub: https://github.com/kundan-ksr
-<br>
-Email: shivaayssr@gmail.com
+## 📧 Contact
+#### Developed by Kundan Kumar
+<ul>
+   <li>GitHub: https://github.com/kundan-ksr</li>
+   <li>Email: shivaayssr@gmail.com</li>
+   <li>LinkedIn: linkedin.com/in/kundan08/</li>
+</ul>
